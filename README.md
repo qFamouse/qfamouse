@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qfamouse&label=Profile%20views&color=0e75b6&style=flat" alt="qfamouse" /> </p>
 
 <h1 align="center">Hi 👋, I'm Alexander</h1>
-<h3 align="center">I am a proficient .NET Full Stack developer with a focus on web technologies</h3>
+<h3 align="center">Full Stack Developer specializing in .NET & Angular</h3>
 
 
 ## Languages and Tools
